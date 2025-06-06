@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @WDSboot
-- 👀 I’m interested in yes
-- 🌱 I’m currently learning yes
-- 💞️ I’m looking to collaborate on yes
-- 📫 How to reach me g mail
+Welkom op mijn profiel!
+
+Ik ben Welmoed en ik studeer momenteel HBO-ICT. 
 
 <!---
 WDSboot/WDSboot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
